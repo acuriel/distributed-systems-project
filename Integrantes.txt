@@ -1,0 +1,9 @@
+Proyecto Sistema Distribuidos 2016-2017
+Sistema de ficheros basado en etiquetas
+
+Amelia Rabanillo Echaniz
+Rosa Amelia Ocaña Bermudez
+Alfredo Iglesias Santamaria
+Aryan Curiel Pardo
+
+C-412
